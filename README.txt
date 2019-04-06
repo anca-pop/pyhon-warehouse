@@ -1,13 +1,13 @@
-dependinte:
-mysql instalat pe masina
+dependencies:
+mysql
 
-pachete necesare:
-mypysql
+needed packages:
+bypysql
 pygal
 tkcalendar - pickup date
-setuptools - pentru functools.partial
-lxml - pentru pygal : sa deschida graficul generat de pygal intr-o pagina de browser
+setuptools - for functools.partial
+lxml - for pygal : open the grafic in a new page
 pytz
 
-utilizare:
-se deschide main.py si se ruleaza cu ctrl+shift+F10
+how to use it:
+open main.py then press ctrl+shift+F10
